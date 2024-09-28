@@ -1,0 +1,17 @@
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\ClientSide.csproj.AssemblyReference.cache
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\ClientSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\ClientSide.AssemblyInfoInputs.cache
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\ClientSide.AssemblyInfo.cs
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\bin\Debug\net6.0\ClientSide.exe
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\bin\Debug\net6.0\ClientSide.deps.json
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\bin\Debug\net6.0\ClientSide.runtimeconfig.json
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\bin\Debug\net6.0\ClientSide.dll
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\bin\Debug\net6.0\ClientSide.pdb
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\ClientSide.csproj.CopyComplete
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\ClientSide.dll
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\refint\ClientSide.dll
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\ClientSide.pdb
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\ClientSide.genruntimeconfig.cache
+C:\Users\idanp\OneDrive\Desktop\game\ClientSide\obj\Debug\net6.0\ref\ClientSide.dll
